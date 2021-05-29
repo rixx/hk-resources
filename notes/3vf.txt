@@ -1,0 +1,44 @@
+<h3>Vengeful Spirit</h3>
+Leave after 1st False Knight cycle
+
+<h3>Greenpath</h3>
+
+<h3>Mothwing Cloak</h3>
+Get dash, no geo necessary.
+Target geo: <b>140</b>
+<i>Save & Quit</i>
+
+<h3>Mantis Claw</h3>
+Get claw, no geo necessary.
+Target geo: <b>140</b>
+<i>Save & Quit</i>
+
+<h3>Massive Mosscharger</h3>
+Lower Greenpath, kill MMC.
+Target geo: <b>440</b>
+
+<h3>Vessel Fragment</h3>
+Get vessel fragment.
+<i>Save & Quit</i>
+
+<h3>Blue Lake</h3>
+Go to Crossroads, lower route because FK lives
+Open Stag
+BENCH
+Kill Gruz Mom
+RESCUE SLY
+Shade skip NO BENCHING
+
+<h3>King's Arena</h3>
+<ol>
+<li> Big husk and sentry</li>
+<li>Two flying sentries</li>
+<li>Big husk, sentry, flying sentry</li>
+<li>Two flying sentries, big husk</li>
+</ol>
+Target geo: <b>580</b>
+<i>Save & Quit</i>
+
+<h3>3VS</h3>
+Stag to Dirtmouth
+Sly fragment <b>1D for 550</b>
